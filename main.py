@@ -59,6 +59,5 @@ async def on_ready():
 keep_alive()
 
 # Run the bot
-# token = os.getenv("BOT_TOKEN")
-token = "OTc4NjQ1OTM3NTU3NzM3NTAy.GPr0ux.qXnQt4qImCrt8FrK7_iLCZk_oUQJvR9vee1NfA"
+token = os.getenv("BOT_TOKEN")
 bot.run(token)
