@@ -20,7 +20,6 @@ async def on_ready():
                               activity=discord.Game(name="chelp"))
     print("Bot initialised :D")
 
-
 # Start the "server"
 keep_alive()
 
