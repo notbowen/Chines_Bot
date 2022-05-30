@@ -15,7 +15,7 @@ from keep_alive import keep_alive
 
 # Variables
 channel_id = 978653634487275530
-minutes = 5
+minutes = 30
 
 api_url = "https://m.dict.cn/hanyu/search.php?q="
 
